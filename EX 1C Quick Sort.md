@@ -1,6 +1,6 @@
 # EX 1C Quick Sort
 ## DATE: 25/02/25
-## AIM:
+## AIM: 
 To write a python to implement Quick sort using the first element as pivot value.
 
 ## Algorithm
